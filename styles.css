@@ -1,0 +1,49 @@
+* {margin: 0 auto ;
+  background-color: rgb(191, 216, 197);
+
+}
+
+header{
+    display : flex;
+    flex-direction: row;
+}
+.f_box{
+    display : flex;
+    flex-direction: row;
+   justify-content: right;
+}
+
+.f2{
+    display : flex;
+   width: 100px; 
+   height: 100px;
+   justify-content: right;
+ }
+
+
+
+@media screen and (min-width: 600px) {
+   * {background-color: olive;
+  }
+}
+
+
+@media screen and (min-width: 800px) {
+   * {background-color: rgb(65, 52, 177);
+  }
+}
+
+@media screen and (min-width: 1000px) {
+   * {background-color: rgb(0, 81, 255);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+   * {background-color: rgb(71, 9, 214);
+  }
+}
+
+@media screen and (min-width: 1400px) {
+   * {background-color: rgb(50, 36, 128);
+  }
+}
