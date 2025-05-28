@@ -1,4 +1,4 @@
-* {margin: 0 auto ;
+*{margin: 0 auto ;
   background-color: rgb(191, 216, 197);
 
 }
@@ -19,6 +19,23 @@ header{
    height: 100px;
    justify-content: right;
  }
+
+.jumbotron {
+  background-color: rgb(196, 191, 216);
+ margin: 15px auto;
+  padding: 20px;
+  
+ 
+ } 
+
+
+
+
+
+
+
+
+
 
 
 
