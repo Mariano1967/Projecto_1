@@ -133,7 +133,28 @@
     margin: 10px;
   }
 
+  
+  
+  .Secuencia{
+    display: flex;
+    direction: raw;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(16, 188, 59);
 
+  }
+.Secuencia2{
+    display: flex;
+    direction: raw;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(61, 97, 204);
+
+}
 
 @media screen and (min-width: 600px) {
    * {background-color: rgb(199, 199, 121);
