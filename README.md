@@ -9,4 +9,4 @@ No cobro ninguna remuneracion, mi ganancia es obtener satisfaction y algo de por
 Inclui un video muy interesante sobre la salud del colon; si te interesa tu salud velo solo te ayudara a ti y tus seres queridos.
 
 Es importante que tomes accion con tu salud intestinal para empezar y te evitaras muchos problemas cuando llegues a tus a~nos dorados.
-Muchas gracias al Universo a Dios y a Daniela por tener la oportunidad de hacer un suen~o posible.
+
